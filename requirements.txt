@@ -1,0 +1,6 @@
+pygame
+pyttsx3
+pyperclip
+python-dotenv
+openai
+SpeechRecognition
