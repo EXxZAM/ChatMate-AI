@@ -30,7 +30,7 @@ ChatMate AI is built on Python, utilizing the Tkinter library to create a visual
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ChatMate-AI.git
+    git clone https://github.com/EXxZAM/ChatMate-AI.git
     ```
 
 2. Navigate to the project directory:
