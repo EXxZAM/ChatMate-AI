@@ -1,5 +1,6 @@
 # ChatMate AI
 
+![GUI](https://i.ibb.co/k57jsDm/chatmate.png)
 ChatMate AI is a user-friendly chatbot application that leverages OpenAI's powerful GPT-3.5 language model to provide interactive conversations. With ChatMate AI, users can engage in natural language conversations by entering prompts and receiving AI-generated responses.
 
 ## Features
